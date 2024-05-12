@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bohemiwasualek.github.io/sitemap.xml
